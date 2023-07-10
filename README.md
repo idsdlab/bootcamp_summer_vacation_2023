@@ -6,23 +6,18 @@
 - 윤승재: https://github.com/ysjaee/
 - 오호빈: https://github.com/OhHobin/
 - 심현진: https://github.com/shyeonjin/
-- 전정주: 
-- 강연호: 
-- 신현준: 
-- 박성현: 
-- 이태현: 
-- 조은석: 
-- 오상은: 
-- 이윤지: 
-- 임다솜: 
-- 최하연: 
-- 안준영: 
+- 전정주: https://github.com/jeoungju/
+- 강연호: https://github.com/yeonho7227/
+- 신현준: https://github.com/sinhuyeonjun/
+- 박성현: https://github.com/hyeon0618/
+- 이태현: https://github.com/Lthyun/
+- 조은석: https://github.com/eric7541/
+- 오상은: https://github.com/Osangeun/
+- 이윤지: https://github.com/202121375
+- 임다솜: https://github.com/som0305/
+- 최하연: https://github.com/hayoniii/
+- 안준영: https://github.com/ahn-junyoung/
 
 ## 참여학생(2학년)
-- 김희수:
-- 백명운:
-- 문병호:
-- 최재영:
-- 윤민혁:
-- 문종환:
-- 최정우:
+- 김희수: https://github.com/galahaed/
+- 백명운: https://github.com/beakmyeongun/
