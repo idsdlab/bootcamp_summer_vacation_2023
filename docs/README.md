@@ -9,3 +9,9 @@
 - 안준영[2학년] : Verilog HDL: Chapter 4~5
 - 전정주[3학년] : Booth Alogrithm
 - 이윤지[3학년] : Non-restore divider
+
+## week03(7/20)
+- 백명운[2학년] : Verilog HDL: Chapter 6~7
+
+## week04(8/3)
+- 백명운[2학년] : Verilog HDL: Chapter 8~9
