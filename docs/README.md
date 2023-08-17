@@ -18,3 +18,6 @@
 
 ## week05(8/10)
 - 김희수[2학년] : Combinational Logic
+
+## week06(8/17)
+- 안준영[2학년] : Sequential Logic
