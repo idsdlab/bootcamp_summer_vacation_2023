@@ -15,3 +15,6 @@
 
 ## week04(8/3)
 - 백명운[2학년] : Verilog HDL: Chapter 8~9
+
+## week05(8/10)
+- 김희수[2학년] : Combinational Logic
