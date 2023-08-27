@@ -21,3 +21,6 @@
 
 ## week06(8/17)
 - 안준영[2학년] : Sequential Logic
+  
+## week05(8/24)
+- 김희수[2학년] : FSM
