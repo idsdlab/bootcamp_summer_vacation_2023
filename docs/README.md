@@ -22,5 +22,12 @@
 ## week06(8/17)
 - 안준영[2학년] : Sequential Logic
   
-## week05(8/24)
+## week07(8/24)
 - 김희수[2학년] : FSM
+
+## week08 LAST SEMINAR(8/28)
+- 박성현[3학년] : UART
+- 이태현[3학년] : Basic Block
+- 오호빈[3학년] : CPU
+- 윤승재[3학년] : SRAM Controller
+- 심현진[3학년] : Bus Matrix
